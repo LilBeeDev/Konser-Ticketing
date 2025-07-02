@@ -18,3 +18,6 @@ Sistem pemesanan tiket konser berbasis PHP + MySQL + Dompdf + PHPMailer.
 
 ### 🔸 Cetak Tiket PDF
 ![Tiket PDF](assets/screenshots/cetak-ticket-pdf.png)
+
+
+Lalu pemesanan directly terkirim ke email pembeli
